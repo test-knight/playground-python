@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "./playground"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "/Users/rraffi/.pyenv/shims/python",
+		"python.defaultInterpreterPath": "Users/rraffi/.pyenv/shims/python",
+		"python.linting.pycodestyleEnabled": true,
+		"python.linting.pylintEnabled": false,
+		"python.linting.enabled": true
+	}
+}
