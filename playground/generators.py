@@ -1,11 +1,16 @@
-# def square_numbers(nums):
-#     for i in nums:
-#         yield (i * i)
+def greeting():
+    print("Hi")
+    yield 1
+    print("How are you?")
+    yield 2
+    print("Are you there?")
+    yield 3
 
 
-# my_nums = square_numbers([1, 2, 3, 4, 5])
+messages = greeting()
 
-my_nums = (x * x for x in [1, 2, 3, 4, 5])
-# print(list(my_nums))
-for num in my_nums:
-    print(num)
+result = next(messages)
+print(result)
+
+result = next(messages)
+print(result)
