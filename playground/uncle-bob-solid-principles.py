@@ -99,7 +99,6 @@ class PaypalPaymentProcessor(PaymentProcessor):
         order.status = "paid"
 
 
-
 order = Order()
 order.add_item("Keyboard", 1, 50)
 order.add_item("SSD", 1, 150)

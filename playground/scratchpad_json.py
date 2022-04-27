@@ -44,7 +44,8 @@ for line in json_object['builds']:
         pass_number = 0
         fail_number = 0
         for tests in test_key['cases']:
-            if tests['className'].startswith("System Failures"):
+            # if tests['className'].startswith("System Failures"):
+            if tests['className']
                 continue
             # print(f"TEST: {tests['className']}.{tests['name']}, STATUS: {tests['status']}")
             if tests['status'] in ['PASSED', 'FIXED']:
