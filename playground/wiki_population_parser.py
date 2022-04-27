@@ -7,7 +7,7 @@ import csv
 website = requests.get("https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population")
 soup = BeautifulSoup(website.text, 'html.parser')
 table = soup.select_one('.wikitable')
-rows = table.select('tr')[1:-1]
+rows = table.select('tr')[2:-1] #first two rows are headers
 csv_data = [['rank', 'country', 'region', 'population', 'percentage', 'date', 'source']]
 
 for row in rows:
