@@ -6,3 +6,5 @@ print(79.97 in prices)
 
 for price in prices:
     print(f'{price:.2f}')
+
+# prices.clear() #will not work because tuples are immutable
