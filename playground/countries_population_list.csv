@@ -1,0 +1,244 @@
+rank,country,region,population,percentage,date,source
+1,China,Asia,"1,412,600,000",17.8%,31 Dec 2021,National annual estimate
+2,India,Asia,"1,375,666,400",17.3%,26 Apr 2022,National population clock
+3,United States,Americas,"332,643,642",4.19%,26 Apr 2022,National population clock
+4,Indonesia,Asia[b],"272,248,500",3.43%,1 Jul 2021,National annual estimate
+5,Pakistan,Asia,"225,199,937",2.83%,1 Jul 2021,UN projection
+6,Brazil,Americas,"214,555,200",2.70%,26 Apr 2022,National population clock
+7,Nigeria,Africa,"211,400,708",2.66%,1 Jul 2021,UN projection
+8,Bangladesh,Asia,"172,613,924",2.17%,26 Apr 2022,National population clock
+9,Russia,Europe[b],"145,478,097",1.83%,1 Jan 2022,National annual estimate
+10,Mexico,Americas,"127,996,051",1.61%,1 Dec 2021,National quarterly estimate
+11,Japan,Asia,"125,502,000",1.58%,1 Oct 2021,National annual estimate
+12,Ethiopia,Africa,"117,876,000",1.48%,1 Jul 2021,UN projection
+13,Philippines,Asia,"111,802,933",1.41%,26 Apr 2022,National population clock
+14,Egypt,Africa[b],"103,212,965",1.30%,26 Apr 2022,National population clock
+15,Vietnam,Asia,"98,505,400",1.24%,1 Jul 2021,National annual estimate
+16,DR Congo,Africa,"92,378,000",1.16%,1 Jul 2021,UN projection
+17,Iran,Asia,"85,388,126",1.07%,26 Apr 2022,National population clock
+18,Turkey,Asia[b],"84,680,273",1.07%,31 Dec 2021,National annual estimate
+19,Germany,Europe,"83,222,442",1.05%,30 Sep 2021,National quarterly estimate
+20,France,Europe,"67,827,000",0.854%,1 Mar 2022,Monthly national estimate
+21,United Kingdom,Europe,"67,081,000",0.844%,30 Jun 2020,National annual estimate
+22,Thailand,Asia,"66,780,780",0.840%,26 Apr 2022,National population clock
+23,South Africa,Africa,"60,142,978",0.757%,1 Jul 2021,National annual estimate
+24,Tanzania,Africa,"59,441,988",0.748%,1 Jul 2021,National annual projection
+25,Italy,Europe,"58,952,787",0.742%,31 Jan 2022,Monthly national estimate
+26,Myanmar,Asia,"55,294,979",0.696%,1 Jul 2021,National annual projection
+27,South Korea,Asia,"51,610,695",0.650%,31 Mar 2022,National monthly estimate
+28,Colombia,Americas,"51,049,498",0.642%,30 Jun 2021,National annual projection
+29,Kenya,Africa,"47,564,296",0.599%,31 Aug 2019,2019 census result
+30,Spain,Europe,"47,326,687",0.596%,1 Jul 2021,National semi-annual estimate
+31,Argentina,Americas,"45,808,747",0.577%,1 Jul 2021,National annual projection
+32,Algeria,Africa,"45,400,000",0.571%,1 Jan 2022,National annual estimate
+33,Sudan,Africa,"44,379,930",0.559%,26 Apr 2022,National population clock
+34,Uganda,Africa,"42,885,900",0.540%,1 Jul 2021,National annual projection
+35,Iraq,Asia,"41,190,700",0.518%,1 Jul 2021,National annual projection
+36,Ukraine,Europe,"41,130,432",0.518%,1 Feb 2022,National monthly estimate
+37,Canada,Americas,"38,663,651",0.487%,26 Apr 2022,National population clock
+38,Poland,Europe,"38,057,000",0.479%,1 Feb 2022,National monthly estimate
+39,Morocco,Africa,"36,583,785",0.460%,26 Apr 2022,National population clock
+40,Uzbekistan,Asia,"35,505,500",0.447%,26 Apr 2022,National population clock
+41,Saudi Arabia,Asia,"35,013,414",0.441%,1 Jul 2020,National annual estimate
+42,Peru,Americas,"33,035,304",0.416%,1 Jul 2021,National annual projection
+43,Afghanistan,Asia,"32,890,171",0.414%,1 Jul 2020,National annual estimate
+44,Malaysia,Asia,"32,711,600",0.412%,26 Apr 2022,National population clock
+45,Angola,Africa,"32,097,671",0.404%,30 Jun 2021,National annual projection
+46,Mozambique,Africa,"30,832,244",0.388%,1 Jul 2021,National annual projection
+47,Ghana,Africa,"30,832,019",0.388%,27 Jun 2021,2021 census results
+48,Yemen,Asia,"30,491,000",0.384%,1 Jul 2021,UN projection
+49,Nepal,Asia,"29,192,480",0.367%,11 Nov 2021,2021 census result
+50,Venezuela,Americas,"28,705,000",0.361%,1 Jul 2021,UN projection
+51,Ivory Coast,Africa,"27,087,732",0.341%,1 Jul 2021,National annual projection
+52,Madagascar,Africa,"26,923,353",0.339%,1 Jul 2021,National annual projection
+53,Australia,Oceania,"25,987,786",0.327%,26 Apr 2022,National population clock
+54,North Korea,Asia,"25,660,000",0.323%,1 Jul 2021,National annual projection
+55,Cameroon,Africa,"24,348,251",0.306%,1 Jul 2019,National annual projection
+56,Niger,Africa,"24,112,753",0.303%,1 Jul 2021,National annual projection
+–,Taiwan,Asia,"23,359,000","0.294%
+",31 Dec 2021,National annual estimate
+57,Sri Lanka,Asia,"22,156,000",0.279%,1 Jul 2021,National annual estimate
+58,Burkina Faso,Africa,"21,510,181",0.271%,1 Jul 2020,National annual projection
+59,Mali,Africa,"20,856,000",0.262%,1 Jul 2021,UN projection
+60,Chile,Americas,"19,678,363",0.248%,30 Jun 2021,National annual projection
+61,Kazakhstan,Asia[b],"19,209,792",0.242%,26 Apr 2022,National population clock
+62,Romania,Europe,"19,186,201",0.241%,1 Jan 2021,National annual estimate
+63,Malawi,Africa,"18,898,441",0.238%,1 Jul 2021,National annual projection
+64,Zambia,Africa,"18,400,556",0.232%,1 Jul 2021,National annual projection
+65,Syria,Asia,"18,276,000",0.230%,1 Jul 2021,UN projection
+66,Ecuador,Americas,"17,966,428",0.226%,26 Apr 2022,National population clock
+67,Netherlands,Europe,"17,714,931",0.223%,26 Apr 2022,National population clock
+68,Senegal,Africa,"17,223,497",0.217%,1 Jul 2021,National annual projection
+69,Guatemala,Americas,"17,109,746",0.215%,1 Jul 2021,National annual projection
+70,Chad,Africa,"16,818,391",0.212%,1 Jul 2021,National annual projection
+71,Somalia,Africa,"16,360,000",0.206%,1 Jul 2021,UN projection
+72,Zimbabwe,Africa,"15,790,716",0.199%,1 Jul 2021,National annual projection
+73,Cambodia,Asia,"15,552,211",0.196%,3 Mar 2019,2019 census result
+74,South Sudan,Africa,"13,249,924",0.167%,1 Jul 2020,National annual projection
+75,Rwanda,Africa,"12,955,768",0.163%,1 Jul 2021,National annual projection
+76,Guinea,Africa,"12,907,395",0.162%,1 Jul 2021,National annual projection
+77,Burundi,Africa,"12,574,571",0.158%,1 Jul 2021,National annual projection
+78,Benin,Africa,"12,506,347",0.157%,1 Jul 2021,National annual projection
+79,Bolivia,Americas,"11,797,257",0.148%,1 Jul 2021,National annual projection
+80,Tunisia,Africa,"11,746,695",0.148%,1 Jul 2020,National semi-annual estimate
+81,Haiti,Americas,"11,743,017",0.148%,1 Jul 2020,National annual projection
+82,Belgium,Europe,"11,624,483",0.146%,1 Feb 2022,National annual estimate
+83,Jordan,Asia,"11,195,292",0.141%,26 Apr 2022,National population clock
+84,Cuba,Americas,"11,181,595",0.141%,31 Dec 2020,National annual estimate
+85,Greece,Europe,"10,678,632",0.134%,1 Jan 2021,National annual estimate
+86,Dominican Republic,Americas,"10,535,535",0.133%,1 Jul 2021,National annual projection
+87,Czech Republic,Europe,"10,524,167",0.132%,27 Mar 2021,2021 census result
+88,Sweden,Europe,"10,462,498",0.132%,28 Feb 2022,Monthly national estimate
+89,Portugal,Europe,"10,347,892",0.130%,22 Mar 2021,2021 census preliminary results
+90,Azerbaijan,Asia[b],"10,156,366",0.128%,1 Jan 2022,Monthly national estimate
+91,Hungary,Europe,"9,689,000",0.122%,1 Jan 2022,National annual estimate
+92,Honduras,Americas,"9,546,178",0.120%,1 Jul 2021,National annual projection
+93,Tajikistan,Asia,"9,506,000",0.120%,1 Jan 2021,National annual estimate
+94,Israel,Asia,"9,507,740",0.120%,26 Apr 2022,National population clock
+95,Belarus,Europe,"9,349,645",0.118%,1 Jan 2021,National annual estimate
+96,United Arab Emirates,Asia,"9,282,410",0.117%,31 Dec 2020,National annual estimate
+97,Papua New Guinea,Oceania,"9,122,994",0.115%,1 Jul 2021,National annual projection
+98,Austria,Europe,"8,979,894",0.113%,1 Jan 2022,National quarterly estimate
+99,Switzerland,Europe,"8,736,500",0.110%,31 Dec 2021,National quarterly estimate
+100,Sierra Leone,Africa,"8,297,882",0.104%,1 Jul 2021,National annual projection
+101,Togo,Africa,"7,886,000",0.0992%,1 Jul 2021,National annual projection
+–,Hong Kong,Asia,"7,403,100","0.0932%
+",31 Dec 2021,National semi-annual estimate
+102,Paraguay,Americas,"7,353,038",0.0925%,1 Jul 2021,National annual projection
+103,Laos,Asia,"7,337,783",0.0923%,1 Jul 2021,National annual projection
+104,Libya,Africa,"6,959,000",0.0876%,1 Jul 2021,UN projection
+105,Serbia,Europe,"6,871,547",0.0865%,1 Jan 2021,National annual estimate
+106,El Salvador,Americas,"6,825,935",0.0859%,1 Jul 2021,National annual projection
+107,Lebanon,Asia,"6,769,000",0.0852%,1 Jul 2021,UN projection
+108,Kyrgyzstan,Asia,"6,700,000",0.0843%,1 Apr 2021,Monthly national estimate
+109,Nicaragua,Americas,"6,595,674",0.0830%,30 Jun 2020,National annual estimate
+110,Bulgaria,Europe,"6,520,314",0.0821%,7 Sep 2021,National annual estimate
+111,Turkmenistan,Asia,"6,118,000",0.0770%,1 Jul 2021,UN projection
+112,Denmark,Europe,"5,873,420",0.0739%,1 Jan 2022,National quarterly estimate
+113,Congo,Africa,"5,657,000",0.0712%,1 Jul 2021,UN projection
+114,Central African Republic,Africa,"5,633,412",0.0709%,1 Jul 2020,National annual projection
+115,Finland,Europe,"5,519,255",0.0695%,31 Dec 2021,Monthly national estimate
+116,Singapore,Asia,"5,453,600",0.0686%,30 Jun 2021,National annual estimate
+117,Slovakia,Europe,"5,434,712",0.0684%,31 Dec 2021,National quarterly estimate
+118,Norway,Europe,"5,425,270",0.0683%,1 Jan 2022,National quarterly estimate
+119,Palestine,Asia,"5,227,193",0.0658%,1 Jul 2021,National annual projection
+120,Costa Rica,Americas,"5,163,038",0.0650%,30 Jun 2021,National annual projection
+121,New Zealand,Oceania,"5,137,062",0.0646%,26 Apr 2022,National population clock
+122,Ireland,Europe,"5,011,500",0.0631%,1 Apr 2021,National annual estimate
+123,Kuwait,Asia,"4,670,713",0.0588%,31 Dec 2020,National annual estimate
+124,Liberia,Africa,"4,661,010",0.0587%,1 Jul 2021,National annual projection
+125,Oman,Asia,"4,527,446",0.0570%,31 Dec 2021,Monthly national estimate
+126,Panama,Americas,"4,278,500",0.0538%,1 Jul 2020,National annual projection
+127,Mauritania,Africa,"4,271,197",0.0538%,1 Jul 2021,National annual projection
+128,Croatia,Europe,"3,888,529",0.0489%,31 Aug 2021,2021 census preliminary results
+129,Georgia,Asia[b],"3,728,573",0.0469%,1 Jan 2021,National annual estimate
+130,Eritrea,Africa,"3,601,000",0.0453%,1 Jul 2021,UN projection
+131,Uruguay,Americas,"3,554,915",0.0447%,30 Jun 2021,National annual projection
+132,Mongolia,Asia,"3,434,171",0.0432%,26 Apr 2022,National population clock
+133,Bosnia and Herzegovina,Europe,"3,320,954",0.0418%,1 Jul 2020,National annual estimate
+–,Puerto Rico,Americas,"3,285,874",0.0414%,1 Apr 2020,2020 census result
+134,Armenia,Asia,"2,963,900",0.0373%,31 Mar 2021,National quarterly estimate
+135,Albania,Europe,"2,829,741",0.0356%,1 Jan 2021,National annual estimate
+136,Qatar,Asia,"2,799,202",0.0352%,31 Jul 2019,National annual estimate
+137,Lithuania,Europe,"2,794,961",0.0352%,1 Jan 2022,Monthly national estimate
+138,Jamaica,Americas,"2,734,093",0.0344%,31 Dec 2019,National semi-annual estimate
+139,Moldova,Europe,"2,597,100",0.0327%,1 Jan 2021,National annual estimate
+140,Namibia,Africa,"2,550,226",0.0321%,1 Jul 2021,National annual projection
+141,Gambia,Africa,"2,487,000",0.0313%,1 Jul 2021,UN projection
+142,Botswana,Africa,"2,410,338",0.0303%,1 Jul 2021,National annual projection
+143,Gabon,Africa,"2,233,272",0.0281%,1 Jul 2021,National annual projection
+144,Lesotho,Africa,"2,159,000",0.0272%,1 Jul 2021,UN projection
+145,Slovenia,Europe,"2,108,977",0.0265%,1 Jan 2021,2021 census result
+146,Latvia,Europe,"1,874,900",0.0236%,1 Dec 2021,Monthly national estimate
+147,North Macedonia,Europe,"1,832,696",0.0231%,1 Nov 2021,2021 census result
+–,Kosovo,Europe,"1,782,115",0.0224%,31 Dec 2019,National annual estimate
+148,Guinea-Bissau,Africa,"1,646,077",0.0207%,1 Jul 2021,National annual projection
+149,Equatorial Guinea,Africa,"1,505,588",0.0189%,1 Jul 2021,National annual estimate
+150,Bahrain,Asia,"1,501,635",0.0189%,17 Mar 2020,2020 census result
+151,Trinidad and Tobago,Americas,"1,367,558",0.0172%,30 Jun 2021,National annual estimate
+152,Estonia,Europe,"1,330,068",0.0167%,1 Jan 2021,National annual estimate
+153,East Timor,Asia,"1,317,780",0.0166%,1 Jul 2021,National annual projection
+154,Mauritius,Africa,"1,266,334",0.0159%,30 Jun 2021,National semi-annual estimate
+155,Eswatini,Africa,"1,172,000",0.0147%,1 Jul 2021,UN projection
+156,Djibouti,Africa,"976,107",0.0123%,1 Jul 2019,National annual projection
+157,Fiji,Oceania,"898,402",0.0113%,1 Jul 2021,National annual projection
+158,Cyprus,Asia,"888,005",0.0112%,31 Dec 2019,National annual estimate
+159,Comoros,Africa,"758,316",0.00954%,15 Dec 2017,2017 census result
+160,Bhutan,Asia,"756,129",0.00952%,1 Jul 2021,National annual projection
+161,Guyana,Americas,"743,699",0.00936%,1 Jul 2019,National annual estimate
+162,Solomon Islands,Oceania,"728,041",0.00916%,1 Jul 2021,National annual projection
+–,Macau,Asia,"682,300","0.00859%
+",30 Sep 2021,National quarterly estimate
+163,Luxembourg,Europe,"645,397",0.00812%,1 Jan 2022,National annual estimate
+164,Montenegro,Europe,"621,306",0.00782%,1 Jul 2020,National semi-annual estimate
+–,Western Sahara,Africa,"612,000",0.00770%,1 Jul 2021,UN projection
+165,Suriname,Americas,"598,000",0.00753%,1 Jul 2019,National annual estimate
+166,Cape Verde,Africa,"563,198",0.00709%,1 Jul 2021,National annual projection
+167,Malta,Europe,"514,564",0.00648%,31 Dec 2019,National annual estimate
+168,Belize,Americas,"430,191",0.00541%,1 Jul 2021,National annual estimate
+169,Brunei,Asia,"429,999",0.00541%,1 Jul 2021,National annual estimate
+170,Bahamas,Americas,"393,450",0.00495%,1 Jul 2021,National annual projection
+171,Maldives,Asia,"383,135",0.00482%,31 Dec 2019,National annual estimate
+–,Northern Cyprus,Asia,"382,230",0.00481%,31 Dec 2019,National annual estimate
+172,Iceland,Europe,"377,280",0.00475%,31 Mar 2022,National quarterly estimate
+–,Transnistria,Europe,"306,000",0.00385%,1 Jan 2018,2021 estimate
+173,Vanuatu,Oceania,"301,295",0.00379%,1 Jul 2021,National annual projection
+174,Barbados,Americas,"288,000",0.00362%,1 Jul 2021,UN projection
+–,French Polynesia,Oceania,"279,890",0.00352%,1 Jul 2021,National annual projection
+–,New Caledonia,Oceania,"273,674",0.00344%,1 Jul 2021,National annual projection
+–,Abkhazia,Asia,"245,424",0.00309%,1 Jan 2020,National annual estimate
+175,São Tomé and Príncipe,Africa,"214,610",0.00270%,1 Jul 2021,National annual projection
+176,Samoa,Oceania,"199,853",0.00252%,1 Jul 2021,National annual projection
+177,Saint Lucia,Americas,"178,696",0.00225%,1 Jul 2018,National annual estimate
+–,Guam,Oceania,"153,836",0.00194%,1 Apr 2020,2020 census result
+–,Curaçao,Americas,"153,671",0.00193%,1 Jan 2021,National annual estimate
+–,Republic of Artsakh,Asia,"148,900",0.00187%,1 Jan 2021,National annual estimate
+178,Kiribati,Oceania,"120,740",0.00152%,1 Jul 2021,National annual projection
+179,Grenada,Americas,"113,000",0.00142%,1 Jul 2021,UN projection
+–,Aruba,Americas,"111,050",0.00140%,31 Dec 2020,National quarterly estimate
+180,Saint Vincent and the Grenadines,Americas,"110,696",0.00139%,1 Jul 2020,National annual estimate
+–,Jersey,Europe,"107,800",0.00136%,31 Dec 2019,National annual estimate
+181,Micronesia,Oceania,"105,754",0.00133%,1 Jul 2021,National annual projection
+182,Tonga,Oceania,"99,532",0.00125%,1 Jul 2021,National annual projection
+183,Antigua and Barbuda,Americas,"99,337",0.00125%,1 Jul 2021,National annual projection
+184,Seychelles,Africa,"99,202",0.00125%,30 Jun 2021,National semi-annual estimate
+–,U.S. Virgin Islands,Americas,"87,146",0.00110%,1 Apr 2020,2020 census result
+–,Isle of Man,Europe,"84,069",0.00106%,30 May 2021,2021 Census results
+185,Andorra,Europe,"79,535",0.00100%,31 Dec 2021,National annual estimate
+186,Dominica,Americas,"72,000",0.000906%,1 Jul 2021,UN projection
+–,Cayman Islands,Americas,"65,786",0.000828%,30 Sep 2020,National quarterly estimate
+–,Bermuda,Americas,"64,055",0.000806%,1 Jul 2021,National annual projection
+–,Guernsey,Europe,"63,124",0.000794%,30 Jun 2020,National quarterly estimate
+–,Greenland,Americas,"56,562",0.000712%,1 Jan 2022,National quarterly estimate
+187,Marshall Islands,Oceania,"54,516",0.000686%,1 Jul 2021,National annual projection
+188,Saint Kitts and Nevis,Americas,"54,000",0.000680%,1 Jul 2021,UN projection
+–,Faroe Islands,Europe,"53,792",0.000677%,1 Mar 2022,Monthly national estimate
+–,South Ossetia,Asia,"53,532",0.000674%,15 Oct 2015,2015 census result
+–,American Samoa,Oceania,"49,710",0.000626%,1 Apr 2020,2020 census result
+–,Northern Mariana Islands,Oceania,"47,329",0.000596%,1 Apr 2020,2020 census result
+–,Turks and Caicos Islands,Americas,"44,542",0.000561%,1 Jul 2020,National annual estimate
+–,Sint Maarten,Americas,"42,577",0.000536%,1 Jan 2021,National annual estimate
+189,Liechtenstein,Europe,"39,315",0.000495%,31 Dec 2021,National semi-annual estimate
+190,Monaco,Europe,"38,350",0.000483%,31 Dec 2020,National annual estimate
+–,Gibraltar,Europe,"34,000",0.000428%,1 Jul 2021,UN projection
+191,San Marino,Europe,"33,685",0.000424%,30 Nov 2021,Monthly national estimate
+–,Saint Martin,Americas,"32,489",0.000409%,1 Jan 2019,National annual estimate
+–,Åland,Europe,"30,344",0.000382%,31 Dec 2021,Monthly national estimate
+–,British Virgin Islands,Americas,"30,000",0.000378%,1 Jul 2021,UN projection
+192,Palau,Oceania,"17,957",0.000226%,1 Jul 2021,National annual projection
+–,Cook Islands,Oceania,"15,342",0.000193%,1 Jul 2021,National annual projection
+–,Anguilla,Americas,"15,000",0.000189%,1 Jul 2021,UN projection
+193,Nauru,Oceania,"11,832",0.000149%,1 Jul 2021,National annual projection
+–,Wallis and Futuna,Oceania,"11,369",0.000143%,1 Jan 2021,National annual projection
+194,Tuvalu,Oceania,"10,679",0.000134%,1 Jul 2021,National annual projection
+–,Saint Barthélemy,Americas,"10,289",0.000129%,1 Jan 2019,National annual estimate
+–,"Saint Helena, Ascension and Tristan da Cunha",Africa,"6,000",0%,1 Jul 2021,UN projection
+–,Saint Pierre and Miquelon,Americas,"5,974",0%,1 Jan 2019,National annual estimate
+–,Montserrat,Americas,"5,000",0%,1 Jul 2021,UN projection
+–,Falkland Islands,Americas,"4,000",0%,1 Jul 2021,UN projection
+–,Christmas Island,Oceania,"1,966",0%,30 Jun 2020,National annual estimate
+–,Norfolk Island,Oceania,"1,734",0%,30 Jun 2020,National annual estimate
+–,Niue,Oceania,"1,549",0%,1 Jul 2021,National annual projection
+–,Tokelau,Oceania,"1,501",0%,1 Jul 2021,National annual projection
+195,Vatican City,Europe,825,0%,1 Feb 2019,Monthly national estimate
+–,Cocos (Keeling) Islands,Oceania,573,0%,30 Jun 2020,National annual estimate

@@ -1,3 +1,5 @@
+import copy
+
 letters = ['B','A','C','D','C','E','F','L','G','E','C','K']
 
 print(letters)
@@ -48,3 +50,8 @@ list_one = ['B', 'A', 'C', 'D', 'C', 'E', 'F', 'L', 'G', 'E', 'C', 'K']
 list_two = list_one.copy()
 list_one.reverse() #reverse list_one
 print(list_two) #list_two remains unmodifed
+
+test = [1, 3, 5, 7]
+test_copy = copy.deepcopy(test)
+test_copy.append(9)
+print(test, test_copy)
