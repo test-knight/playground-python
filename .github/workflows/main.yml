@@ -1,0 +1,17 @@
+name: CI
+on:
+  push:
+    branches: [ develop ]
+    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Run a on-line script
+        run: |
+          ls -laht
+          git status
+          hostname
