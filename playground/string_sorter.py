@@ -5,4 +5,4 @@ name_array = list(name.strip(' '))
 print(name_array)
 
 sample_array = [1, 2, 3]
-print(sample_array[:-2])
+print(sample_array[:2])
