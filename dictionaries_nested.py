@@ -14,3 +14,8 @@ for product_key in products.keys():
     price = f"${products[product_key]['price']:,.2f}"
     product_taxable = products[product_key]['taxable']
     print(f'{product_name:<16} {price:>12} {product_taxable}')
+
+
+name = 'Riaz Mohammed Raffi'
+cleaned = ''.join(char.lower() for char in name if char.isalnum())
+print(type(set(cleaned)))
